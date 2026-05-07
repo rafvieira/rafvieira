@@ -3,7 +3,7 @@
 ### Infrastructure Engineer | Linux Specialist
 
 🚀 Owner of **[OnlyGoes Informática e Tecnologia](https://onlygoes.com.br)** - IT Consulting & Services  
-📍 Luxembourg
+📍 Luxembourg • São Paulo, Brazil  
 🎯 Building scalable infrastructure and automation solutions
 
 ---
@@ -22,31 +22,44 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Infrastructure & Systems
+### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
+![SUSE](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=suse&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
 ![AIX](https://img.shields.io/badge/AIX-0066CC?style=for-the-badge&logo=ibm&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Web Servers & Services
+### Virtualization & Containers
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### Web Servers & File Management
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![rclone](https://img.shields.io/badge/rclone-0078D7?style=for-the-badge&logo=rclone&logoColor=white)
+![rsync](https://img.shields.io/badge/rsync-CC0000?style=for-the-badge&logo=gnu&logoColor=white)
 
 ### Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Networking & Security
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-Configuration-00599C?style=for-the-badge)
 ![Firewall](https://img.shields.io/badge/Firewall-Security-E34F26?style=for-the-badge)
@@ -54,7 +67,6 @@
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Methodologies
@@ -65,10 +77,10 @@
 
 ## 🔭 Current Projects
 
-- 🎫 **Service Order Management System** - PHP-based platform with automated deployment pipeline (Git/GitHub)
+- 🎫 **Service Order Management System** - Service Order (OS) management platform built with PHP and MariaDB backend
 - 🔐 **WireGuard Automation** - Automated peer configuration generation for pfSense and Debian servers
-- 💾 **Backup Infrastructure** - Multi-server backup automation with integrity validation
-- 🤖 **Local LLM Cluster** - llama.cpp distributed inference across multiple devices
+- 💾 **Linux Backup Infrastructure** - Multi-server backup automation with integrity validation for Linux-based environments
+- 🤖 **Local LLM Cluster** - llama.cpp distributed inference across multiple devices (test environment and study case)
 - 📱 **Android Diagnostics App** - Kotlin-based device testing tool
 
 ---
